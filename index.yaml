@@ -3,7 +3,7 @@ entries:
   external-dns:
   - apiVersion: v1
     appVersion: 0.5.7
-    created: 2018-10-17T13:58:54.412997985-04:00
+    created: 2018-10-17T14:03:04.822919426-04:00
     description: Configure external DNS servers (AWS Route53, Google CloudDNS and
       others) for Kubernetes Ingresses and Services
     digest: 170192d18a546ae8f377d229dd270ac1ee46dae2d265859975cccd2761adcf27
@@ -17,7 +17,7 @@ entries:
     version: 0.7.8
   - apiVersion: v1
     appVersion: 0.5.7
-    created: 2018-10-17T13:58:54.413710437-04:00
+    created: 2018-10-17T14:03:04.824446701-04:00
     description: Configure external DNS servers (AWS Route53, Google CloudDNS and
       others) for Kubernetes Ingresses and Services.  Customized for PowerDNS
     digest: 12ebe5787dd03d30e399ddf66ce088df2e5c28727f6160f733788e9aa292184f
@@ -29,4 +29,18 @@ entries:
     urls:
     - https://petronem.github.io/cariiCharts/external-dns-0.7.8jp.tgz
     version: 0.7.8jp
-generated: 2018-10-17T13:58:54.412056831-04:00
+  - apiVersion: v1
+    appVersion: 0.5.7
+    created: 2018-10-17T14:03:04.82379426-04:00
+    description: Configure external DNS servers (AWS Route53, Google CloudDNS and
+      others) for Kubernetes Ingresses and Services.  Customized for PowerDNS
+    digest: 045bf32e565f94e64e6c1483d65a0ad04d127a087cf477ebe197027bdaec08d3
+    engine: gotpl
+    home: https://github.com/kubernetes-incubator/external-dns
+    name: external-dns
+    sources:
+    - https://github.com/kubernetes-incubator/external-dns
+    urls:
+    - https://petronem.github.io/cariiCharts/external-dns-0.7.8jp-001.tgz
+    version: 0.7.8jp-001
+generated: 2018-10-17T14:03:04.82219885-04:00
