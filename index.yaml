@@ -3,7 +3,7 @@ entries:
   external-dns:
   - apiVersion: v1
     appVersion: 0.5.7
-    created: 2018-10-17T13:11:12.098608339-04:00
+    created: 2018-10-17T13:20:14.888939193-04:00
     description: Configure external DNS servers (AWS Route53, Google CloudDNS and
       others) for Kubernetes Ingresses and Services
     digest: 0798459e2e4c2ce8916b56b8f3d2749742c610cd00f114f6df27b1d9b598583d
@@ -15,4 +15,4 @@ entries:
     urls:
     - https://petronem.github.io/cariiCharts/external-dns-0.7.8.tgz
     version: 0.7.8
-generated: 2018-10-17T13:11:12.097911004-04:00
+generated: 2018-10-17T13:20:14.887903692-04:00
